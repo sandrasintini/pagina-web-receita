@@ -9,7 +9,7 @@ Técnologias utilizadas:
   - CSS3
     
 Conceitos aplicados:
-  - Estrutura semântica clara (header, main, section, article, footer);
+  - Estrutura semântica clara (header, main, section, footer);
   - Hierarquia visual e tipografia voltadas para leitura;
   - Separação entre conteúdo e estilo;
   - Design simples, funcional e orientado à experiencia do usuário
